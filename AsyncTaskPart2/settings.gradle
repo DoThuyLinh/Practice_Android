@@ -1,0 +1,2 @@
+rootProject.name='AsyncTaskPart2'
+include ':app'

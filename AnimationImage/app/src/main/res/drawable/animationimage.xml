@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="500" android:drawable="@drawable/cloud_001"></item>
+    <item android:duration="500" android:drawable="@drawable/cloud_002"></item>
+    <item android:duration="500" android:drawable="@drawable/cloud_003"></item>
+    <item android:duration="500" android:drawable="@drawable/cloud_004"></item>
+    <item android:duration="500" android:drawable="@drawable/cloud_005"></item>
+</animation-list>
